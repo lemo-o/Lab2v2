@@ -1,9 +1,3 @@
-/*
-Ben Hall
-Section 05
-September 7 2021
-Lab Assignment 2
-*/
 #include <iostream>
 using namespace std;
 
